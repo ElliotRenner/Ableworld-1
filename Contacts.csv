@@ -1,6 +1,6 @@
 Name,Number
 
-//Engineering,0
+//Engineering,
 Andrew B,256
 Cat T,265
 Jake B,217
@@ -8,11 +8,88 @@ Paul R,234
 Sarah I-R,268
 Engineers Workshop,252
 
-//Customer Service,0
+//Customer Service,
 Andrea W,231
 Carol M,202
 Tracey G,266
 
-//Delivieres,0
+//Delivieres,
 Catherine C,263
 Lorna R,218
+Steve V,291
+
+//Stairlifts Stock,
+Adele R,286
+Dave D,219
+Suzanne D,267
+Symon P,262
+Sharon S,222
+
+//Stairlifts Enquires,
+Chantelle A,239
+Helen J,210
+Rachel K,264
+Tom F,232
+Ronelle H,246
+Sue H,
+
+//Marketing,
+Daniel W,223
+Ellie E,235
+Nichole S,224
+Rhian P,292
+Lucia F,245
+
+//Buying,
+Jane O,237
+Julie N,211
+
+//Operations,
+Amy K,296
+Don T,236
+Lydia W,201
+Sara S,244
+
+//Accounts,
+Amy D,242
+Nikki F,269
+Christine D,253
+Lesley B,287
+Greta N,248
+Richard H,289
+Tamsyn W,289
+Janis H,251
+Sam H,240
+Sue E,228
+Val H,288
+
+//Directors,
+Mike W,229
+Neil C,227
+Tonya P,233
+Tony L,259
+
+//HR,
+Nicola H,249
+Sally F,230
+
+//Reception
+Crystal,221
+
+//Audit,
+Ann S,226
+Helen H,260
+Lee S,247
+
+//Training,
+Michelle B,295
+Caitlin R,261
+
+//IT & Projects,
+Dan B,241
+Daniel C,200
+Elliot R,255
+Dipo S,220
+Paul J,294
+
+//Stores,
